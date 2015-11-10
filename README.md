@@ -4,7 +4,7 @@ n11.com Project
 
 Firstly, i want to thank to Infonal company because they provide me to new challange that was unknown area for
 me so i had a new capability about automation tools this way. Only writings, prototypes and videos
-make me to take a level to wrote complex automated test cases.
+made me to took a level to wrote complex automated test cases.
 
 The project includes two test cases ;
 
